@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@next-auth/supabase-adapter": "^0.2.1",
     "@supabase/supabase-js": "^2.48.1",
     "@uploadthing/react": "^7.1.5",
     "next": "15.1.6",
